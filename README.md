@@ -27,6 +27,6 @@ Por ejemplo:
 * gaitober" => "gato"
 
 
-![imagen-general-v2](m1994d.png)
+![imagen-general](m1994d.png)
 
 
