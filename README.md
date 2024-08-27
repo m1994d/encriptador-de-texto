@@ -3,7 +3,7 @@ Encriptador de texto parte del Challenge Alura ONE Oracle Next Education 27 de A
 
 ## ¡Bienvenidas y bienvenidos a mi encriptador de texto!
 
-Acontinuacion tenemos una aplicación que encripta textos, podrás intercambiar mensajes secretos con otras personas que sepan el secreto de la encriptación utilizada.
+A continuación tenemos una aplicación que encripta textos, podrás intercambiar mensajes secretos con otras personas que sepan el secreto de la encriptación utilizada.
 
 Las "llaves" de encriptación que utilizamos son las siguientes:
 
