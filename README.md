@@ -23,8 +23,8 @@ Requisitos:
 
 Por ejemplo:
 
-"gato" => "gaitober"
-gaitober" => "gato"
+- "gato" => "gaitober"
+* gaitober" => "gato"
 
 
 ![imagen-general-v2](m1994d.png)
