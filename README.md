@@ -1,4 +1,19 @@
 # Encriptador de texto.
 Encriptador de texto parte del Challenge Alura ONE Oracle Next Education 27 de Agosto 2024/
 
+## ¡Bienvenidas y bienvenidos a mi encriptador de texto!
+
+Acontinuacion tenemos una aplicación que encripta textos, podrás intercambiar mensajes secretos con otras personas que sepan el secreto de la encriptación utilizada.
+
+Las "llaves" de encriptación que utilizamos son las siguientes:
+
+La letra "a" es convertida para "ai"
+La letra "e" es convertida para "enter"
+La letra "i" es convertida para "imes"
+La letra "o" es convertida para "ober"
+La letra "u" es convertida para "ufat"
+
+
 ![imagen-general-v2](m1994d.png)
+
+
